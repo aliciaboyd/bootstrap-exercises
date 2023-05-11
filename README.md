@@ -1,6 +1,6 @@
 # Bootstrap Exercises
 
-Practice with Bootstrap 5 and React. Scafolded with Vite using the [React template](https://vitejs.dev/guide/).
+Practice with Bootstrap 5, Typescript and React. Scafolded with Vite using the [React template](https://vitejs.dev/guide/).
 
 ---
 

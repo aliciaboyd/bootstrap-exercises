@@ -1,5 +1,7 @@
 // @import "../node_modules/bootstrap/scss/functions";
 
-// $primary: red;
+$font-family-base: "Outfit", system-ui, "Roboto";
+
+$display-font-weight: 300;
 
 @import "../node_modules/bootstrap/scss/bootstrap";
